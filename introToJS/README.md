@@ -12,10 +12,10 @@ Content of the tutorial:
 <li> foo </li> <li> bar </li> </ul> </li> <li> Conditional Operation <ul>
 <li>if </li> 
 <li>switch </li> </ul> </li> <li> Operators <ul>
-<li> && (And) </li> <li> || (Or) </li> <li> !(Not) </li> <li> < code > & gt; < /code>  (Greater then)</li >
-<li> < code > & lt; < /code>  (Less Then)</li >
-<li> < code > & gt; < /code>=  (Greater then or equal)</li >
-<li> < code > & lt; < /code>=  (Less then or equal)</li >
+<li> && (And) </li> <li> || (Or) </li> <li> !(Not) </li> <li> <code> & gt; </code>  (Greater then)</li >
+<li> <code> & lt; </code>  (Less Then)</li >
+<li> <code> & gt; </code>=  (Greater then or equal)</li >
+<li> <code> & lt; </code>=  (Less then or equal)</li >
 <li>= = (Equal) </li> </ul> </li> <li> Objects <ul>
     <li> JavaScript objects are key - value mappings. </li> <li> Keys are strings used to look up values </li> <li> Values can be any type that a variable can be(Number, String, Boolean, Array, Object, Function) </li> <li> The.operator <ul>
     <li> Access </li> <li> Assignment </li> </ul> </li> <li> The[] operator <ul>
@@ -28,27 +28,27 @@ Content of the tutorial:
 <ul>
 <li> Array literals
 
-    <ul>
-    <li> Empty array </li> <li> Array with things in it separated by commas </li> </ul></li >
-    <li> Square bracket notation
+<ul>
+<li> Empty array </li> <li> Array with things in it separated by commas </li> </ul></li >
+<li> Square bracket notation
 
 <ul>
 <li> Accessing values by index </li> <li> Writing values by index </li> </ul></li >
-<li> The < code > push < /code> function</li >
-<li> The < code > pop < /code> function</li >
+<li> The <code > push </code> function</li >
+<li> The <code > pop </code> function</li >
 </ul> </li> <li> Functions
 
 <ul>
 <li> Functions can be assigned to variables and object properties </li> <li> Declaring functions </li> <li> Arguments </li> <li> Scope of arguments </li> <li> Return values </li> <li> Calling functions </li> </ul></li >
     <li> Loops <ul>
-    <li> Declaring an increment variable < code > i < /code></li >
-    <li> Initialization( < code > i = 0 < /code>)</li >
-        <li> Condition( < code > i & lt; n < /code>)</li >
-            <li> Afterthought( < code > i++ < /code>)</li >
+    <li> Declaring an increment variable <code> i </code></li >
+    <li> Initialization( <code> i = 0 </code>)</li >
+        <li> Condition( <code> i & lt; n </code>)</li >
+            <li> Afterthought( <code> i++ </code>)</li >
                 </ul></li >
-                <li> The < code > ++ < /code> syntax
+                <li> The <code> ++ </code> syntax
                 <ul>
-                <li> < code > i++ < /code> is short for <code>i = i + 1</code > </li> </ul></li >
+                <li> <code> i++ </code> is short for <code>i = i + 1</code > </li> </ul></li >
                 <li> Refactoring
                 <ul>
                 <li> Extracting hard - coded
