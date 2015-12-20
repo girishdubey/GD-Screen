@@ -1,7 +1,7 @@
 In this tutorial we wrote the following code:
 
 <ul>
-<li> <a href="https://github.com/girishdubey/GD-Screen/blob/master/introToJS/intro.html">intro.js page</a> </li>
+<li> <a href="https://github.com/girishdubey/GD-Screen/blob/master/introToJS/intro.html">intro.html page</a> </li>
 <li> <a href="https://github.com/girishdubey/GD-Screen/blob/master/introToJS/intro.js">intro.js page</a> </li>
 </ul>
 
