@@ -12,10 +12,10 @@ Content of the tutorial:
 <li> foo </li> <li> bar </li> </ul> </li> <li> Conditional Operation <ul>
 <li>if </li> 
 <li>switch </li> </ul> </li> <li> Operators <ul>
-<li> && (And) </li> <li> || (Or) </li> <li> !(Not) </li> <li> <code> & gt; </code>  (Greater then)</li >
-<li> <code> & lt; </code>  (Less Then)</li >
-<li> <code> & gt; </code>=  (Greater then or equal)</li >
-<li> <code> & lt; </code>=  (Less then or equal)</li >
+<li> && (And) </li> <li> || (Or) </li> <li> !(Not) </li> <li> <code> &gt; </code>  (Greater then)</li >
+<li> <code> &lt; </code>  (Less Then)</li >
+<li> <code> &gt; </code>=  (Greater then or equal)</li >
+<li> <code> &lt; </code>=  (Less then or equal)</li >
 <li>= = (Equal) </li> </ul> </li> <li> Objects <ul>
     <li> JavaScript objects are key - value mappings. </li> <li> Keys are strings used to look up values </li> <li> Values can be any type that a variable can be(Number, String, Boolean, Array, Object, Function) </li> <li> The.operator <ul>
     <li> Access </li> <li> Assignment </li> </ul> </li> <li> The[] operator <ul>
@@ -43,7 +43,7 @@ Content of the tutorial:
     <li> Loops <ul>
     <li> Declaring an increment variable <code> i </code></li >
     <li> Initialization( <code> i = 0 </code>)</li >
-        <li> Condition( <code> i & lt; n </code>)</li >
+        <li> Condition( <code> i &lt; n </code>)</li >
             <li> Afterthought( <code> i++ </code>)</li >
                 </ul></li >
                 <li> The <code> ++ </code> syntax
